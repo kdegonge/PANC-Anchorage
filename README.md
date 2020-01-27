@@ -1,6 +1,6 @@
 # PANC - Anchorage Ted Stevens International by Zero Dollar Payware
 
-THIS PROJECT IS STILL IN ALPHA, YOU SHOULDN't BE HERE UNLESS YOU ARE A DEVELOPER ON THIS PROJECT
+This project is currently in the open beta stage. Please know that this is not a completed project and will have several missing features and bugs
 
 For brevity's sake and so I don't have to update multiple sources all information regarding this project and the public beta is available on the official forum thread
 
