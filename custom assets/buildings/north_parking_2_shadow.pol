@@ -1,0 +1,10 @@
+A
+850
+DRAPED_POLYGON
+
+LAYER_GROUP markings +5
+TEXTURE_NOWRAP	north_parking_2_shadow.png
+
+LOD 3000
+SPECULAR 0.0
+SCALE		1 1

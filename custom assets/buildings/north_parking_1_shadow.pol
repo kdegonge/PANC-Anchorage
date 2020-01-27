@@ -1,0 +1,19 @@
+A
+850
+DRAPED_POLYGON
+
+#subtex	0.000 0.000 0.300 1.000
+#subtex	0.300 0.670 0.860 1.000
+#subtex	0.315 0.300 0.630 0.660
+#subtex	0.310 0.130 0.630 0.290
+#subtex	0.320 0.000 0.410 0.110
+#subtex	0.630 0.250 1.000 0.670
+#subtex	0.850 0.675 1.000 0.820
+#subtex	0.860 0.830 1.000 1.000
+
+LAYER_GROUP markings +5
+TEXTURE_NOWRAP	north_parking_1_shadow.png
+
+LOD 3000
+SPECULAR 0.0
+SCALE		1 1

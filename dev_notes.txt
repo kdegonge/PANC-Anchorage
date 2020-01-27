@@ -1,0 +1,19 @@
+152.25 hrs
+
+--beta checklist--
+[x] cargo buildings
+[x] fix broken runway painted signs
+[x] terminal
+[x] SAM marshallers
+[x] gate C8 jetway
+[x] south terminal jetways lower angle
+[x] lighting
+[x] SAM jetways
+[x] tower view
+[x] SAM v2
+[x] radio freqs
+
+
+
+inventor>check curves>small details>poly reduce>create mask>smooth normals>bake
+https://www.rogerhickelcontracting.com/project-category/civil/#post-706

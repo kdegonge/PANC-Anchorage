@@ -1,0 +1,8 @@
+A
+850
+DRAPED_POLYGON
+
+LAYER_GROUP	markings +5
+TEXTURE_NOWRAP skidmarks.dds
+SCALE 1 1
+LOD 1000

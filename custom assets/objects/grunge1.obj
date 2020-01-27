@@ -1,0 +1,27 @@
+I
+800
+OBJ
+
+TEXTURE
+TEXTURE_DRAPED	grunge1.dds
+SPECULAR	0.5
+POINT_COUNTS	6	0	0	6
+
+VT	4.5	0	-4.5	0	1	-0	0.99999988	0
+VT	4.5	0	4.5	0	1	-0	0	0.00000015
+VT	-4.5	0	4.5	0	1	-0	0.00000015	1
+VT	-4.5	0	4.5	0	1	-0	0.00000015	1
+VT	-4.5	0	-4.5	0	1	-0	1	0.99999988
+VT	4.5	0	-4.5	0	1	-0	0.99999988	0
+
+IDX	0
+IDX	1
+IDX	2
+IDX	3
+IDX	4
+IDX	5
+
+ATTR_draped
+TRIS	0 6
+
+# Build with Blender 2.79 (sub 0) (build b'8928d99270f'). Exported with XPlane2Blender 3.5.0-rc.1+40.20181016150257
