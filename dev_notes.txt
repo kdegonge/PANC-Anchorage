@@ -1,19 +1,40 @@
-152.25 hrs
+163 hrs
+**REMEMBER TO COPY THE SAM.CFG WHEN MODIFIED**
 
 --beta checklist--
-[x] cargo buildings
-[x] fix broken runway painted signs
-[x] terminal
-[x] SAM marshallers
-[x] gate C8 jetway
-[x] south terminal jetways lower angle
-[x] lighting
-[x] SAM jetways
-[x] tower view
-[x] SAM v2
-[x] radio freqs
+[ ] fix north cargo 2 AO mask
+[x] add taxiway signs and tar for R7-R11
+[x] sam marshallers inner remote stands
+[x] ortho beaches
+[+] north cargo apron
+	[ ] parking lots
+	[ ] trees
+	[x] small clutter (towbar, cones, etc.)
+	[x] ground lines
+	[x] trucks
+	[x] ground equipment
+	[x] fences
+	[x] barriers
+	[x] dumpsters/pallates
+[+] terminal
+	[ ] parking lots
+	[x] increase ao strength
+	[x] dumpsters
+	[x] small clutter (towbar, cones, etc.)
+	[x] ground lines
+	[x] trucks
+	[x] ground equipment
+	[x] fences
+	[x] barriers
+[x] flip building AO mask normals
 
 
+==beta list==
+1. initial - terminal and north cargo basic
+2. high volume - terminal and north cargo detailed
+3. south airpark and ANG
+4. east airpark
+5. landside terminal & perimeter
+6. extra features, final touches
 
 inventor>check curves>small details>poly reduce>create mask>smooth normals>bake
-https://www.rogerhickelcontracting.com/project-category/civil/#post-706

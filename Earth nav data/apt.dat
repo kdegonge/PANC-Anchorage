@@ -1982,6 +1982,11 @@ I
 20  61.17758516 -150.00302055 346.2000 0 2 {@B}8{@@}2
 20  61.18022422 -150.00449732 346.2000 0 2 {@B}7{@@}3
 20  61.17494835 -150.00154503 346.2000 0 2 {@B}9{@@}1
+20  61.17606709 -149.99469777 340.5500 0 2 {@Y}R11{^r,@@,^l}R11
+20  61.17544105 -149.99415429 339.9200 0 2 {@Y}R10{^r,@@,^l}R10
+20  61.17479566 -149.99366370 339.7400 0 2 {@Y}R9{^r,@@,^l}R9
+20  61.17414323 -149.99317131 339.7900 0 2 {@Y}R8{^r,@@,^l}R8
+20  61.17349186 -149.99288094 160.1000 0 2 {@Y,^l}R7{@@}R7{^r}
 14  61.17669963 -149.98287168 298.56 0 Stevens_Anchorage_Intl Tower
 1300  61.16270226 -149.98757115 -111.28 misc turboprops|props LifeMed Alaska 3
 1300  61.16283551 -149.98766937 -111.28 misc turboprops|props LifeMed Alaska 2
@@ -1998,7 +2003,7 @@ I
 1300  61.17254621 -149.98325285 -19.81 gate jets|turboprops Gate B3
 1300  61.17263986 -149.98526285 108.38 gate jets|turboprops Gate B8
 1300  61.17295996 -149.98490904 137.85 gate jets|turboprops Gate B6
-1300  61.17302972 -149.98407511 150.24 gate jets|turboprops Gate B6
+1300  61.17302972 -149.98407511 150.24 gate jets|turboprops Gate B4
 1300  61.17226138 -149.98398148  -3.33 gate jets|turboprops Gate B5
 1300  61.17219295 -149.98459547  25.93 gate jets|turboprops Gate B7
 1300  61.17235760 -149.98509257  61.91 gate jets|turboprops Gate B9
@@ -2029,9 +2034,9 @@ I
 1300  61.17770129 -149.98874133 -25.05 gate heavy|jets|turboprops Gate N6
 1300  61.17817440 -149.99080266 159.64 gate heavy|jets|turboprops Gate N7
 1300  61.17754943 -149.98964688  23.52 gate heavy|jets|turboprops Gate N8
-1300  61.17629110 -149.98810085  28.32 gate heavy Gate R2
-1300  61.17549034 -149.98740731  28.31 gate heavy Gate R3
-1300  61.17462593 -149.98678212  28.58 gate heavy Gate R4
+1300  61.17625110 -149.98814588  28.32 gate heavy Gate R2
+1300  61.17540028 -149.98750707  28.31 gate heavy Gate R3
+1300  61.17456188 -149.98685490  28.58 gate heavy Gate R4
 1300  61.17396683 -149.99016506  69.96 gate heavy Gate R7
 1300  61.17460423 -149.99065160  70.25 gate heavy Gate R8
 1300  61.17524623 -149.99113900  69.90 gate heavy Gate R9
@@ -2046,10 +2051,10 @@ I
 1300  61.19664419 -150.00762015 -30.77 gate heavy North Cargo Ramp 4
 1300  61.19683680 -150.00621346 -15.62 gate heavy North Cargo Ramp 5
 1300  61.19705586 -150.00502457 -15.10 gate heavy North Cargo Ramp 6
-1300  61.19470860 -150.00624214 165.30 gate heavy North Cargo Ramp 6
-1300  61.19487885 -150.00498964 165.05 gate heavy North Cargo Ramp 7
-1300  61.19504928 -150.00373575 165.14 gate heavy North Cargo Ramp 8
-1300  61.19522364 -150.00245301 165.35 gate heavy North Cargo Ramp 9
+1300  61.19470860 -150.00624214 165.30 gate heavy North Cargo Ramp 7
+1300  61.19487885 -150.00498964 165.05 gate heavy North Cargo Ramp 8
+1300  61.19504928 -150.00373575 165.14 gate heavy North Cargo Ramp 9
+1300  61.19522364 -150.00245301 165.35 gate heavy North Cargo Ramp 10
 1300  61.19723596 -149.99886459 -15.71 gate jets|turboprops|props PenAir Ramp 1
 1300  61.19616709 -149.99675486 162.93 gate jets|turboprops|props Ace Air Cargo 3
 1300  61.19637269 -149.99633667 279.98 gate jets|turboprops|props Ace Air Cargo 4
@@ -2109,7 +2114,7 @@ I
 1300  61.17258902 -149.95267756 -90.79 tie_down turboprops|props East Airpark 6
 1300  61.17267255 -149.94438964 -123.34 tie_down turboprops|props East Airpark 12
 1300  61.17282886 -149.95265545 -90.79 tie_down turboprops|props East Airpark 4
-1300  61.17227814 -149.94735271  89.18 tie_down turboprops|props East Airpark 1
+1300  61.17227814 -149.94735271  89.18 tie_down turboprops|props East Airpark 11
 1300  61.17257022 -149.94713607  89.18 tie_down turboprops|props East Airpark 10
 1300  61.17284311 -149.94704322  89.18 tie_down turboprops|props East Airpark 9
 1300  61.17307404 -149.95265177 -90.79 tie_down turboprops|props East Airpark 2
@@ -2139,7 +2144,7 @@ I
 1300  61.16507252 -149.97816536  90.95 gate jets|turboprops|props|fighters ANG 8
 1300  61.16459301 -149.97816262  90.95 gate jets|turboprops|props|fighters ANG 9
 1300  61.16411486 -149.97816036  90.95 gate jets|turboprops|props|fighters ANG 10
-1300  61.16363575 -149.97815894  90.95 gate jets|turboprops|props|fighters ANG 1
+1300  61.16363575 -149.97815894  90.95 gate jets|turboprops|props|fighters ANG 11
 1300  61.16364186 -149.97659880  58.88 gate jets|turboprops|props|fighters ANG 7
 1300  61.16413197 -149.97660143  58.88 gate jets|turboprops|props|fighters ANG 6
 1300  61.16462952 -149.97659851  58.88 gate jets|turboprops|props|fighters ANG 5
