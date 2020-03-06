@@ -1,0 +1,24 @@
+I
+800
+OBJ
+
+TEXTURE		RoofButi.png
+TEXTURE_NORMAL	RoofButi-NML.png
+GLOBAL_specular 0
+POINT_COUNTS	4 0 0 6
+
+VT	  12.4700    4.4600   16.6300	 0.000  1.000 -0.000	 0.0000  0.0000
+VT	   0.2000    4.4600    0.2000	 0.000  1.000 -0.000	 2.0174  3.0132
+VT	   0.2000    4.4600   16.6300	 0.000  1.000 -0.000	 0.0000  3.0132
+VT	  12.4700    4.4600    0.2000	 0.000  1.000 -0.000	 2.0174  0.0000
+
+IDX	2
+IDX	1
+IDX	0
+IDX	3
+IDX	0
+IDX	1
+
+TRIS	0 6
+
+# Built with SketchUp 18.0.16975. Exported with SketchUp2XPlane 1.70.
