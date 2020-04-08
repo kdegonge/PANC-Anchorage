@@ -20,5 +20,6 @@ Assets used from other developers was done so with their knowledge and approval.
 
 **Credits**
 Orthophotos courtesy of [USGS](https://earthexplorer.usgs.gov/).
+Original WED scenery by Iced8383
 SAM marshaller configuration by christianh727
-Waste Water Treatment Plant by Alex Siu
+Modeling of 30+ buildings by Alex Siu

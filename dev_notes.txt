@@ -1,22 +1,60 @@
-183 hrs
+210. hrs
 **REMEMBER TO COPY THE SAM.CFG WHEN MODIFIED**
 
---beta checklist--
-[ ] enable vegetation
-[ ] grass density
-[x] adjust marshaller positions
-[x] fix broken pillars on terminal
-[x] building lighting
-[x] cones/barrels
+--beta 4 checklist--
+[ ] get textured buildings from alex
+[x] grass density
+[x] shift clutter north to fix clipping
+[x] northern air cargo maintenance > NAC maintenance
+[x] lake beach exclusion
 [x] small clutter
-[x] trees
 [x] vehicles
-[x] parking lots
-[x] containers/construction trailers
-[x] lights
-[x] sheds/toll booths
+[x] sheds
+[x] large clutter
+[x] trailers and dumpsters
+[x] vegatation
+[x] fix signature sign
+[x] rebake AO
+[x] fences
+[x] lighting
+[x] ground markings
+[x] static aircraft
+[x] add lights to buildings
+[x] loading docks
+[x] create light object
+[x] grunge
+[x] ground poly rework
+[x] texture south airpark
+[x] export/validate south airpark
+[x] create new ortho decal
+[x] model south airpark
+[x] fix pillars on terminal
+[x] rebake terminal
+[x] rebake cargo buildings
 
-update template with export settings and AO settings
+--beta 5 checklist--
+[ ] model f&m
+[ ] test f&m
+[ ] materialize f&m
+[ ] texture f&m
+[ ] model landside
+[ ] test landside
+[ ] materialize landside
+[ ] texture landside
+[ ] sheds
+[ ] large clutter
+[ ] small clutter
+[ ] vegetation
+[ ] grunge
+[ ] vehicles
+[ ] fences
+[ ] lighting
+[ ] fuel farm
+
+--general improvements needed--
+[ ] dirty tar mask
+[ ] wavy glass nml
+[ ] update template with export settings and AO settings
 
 
 ==beta list==
