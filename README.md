@@ -8,7 +8,6 @@ For brevity's sake and so I don't have to update multiple sources all informatio
 
 **Required Libraries**
 * MisterX Library
-* PP Library
 * SAM Library
 
 Please report any bugs with the beta on the official project discord or on the official forum thread (linked above)
