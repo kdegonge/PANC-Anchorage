@@ -1,60 +1,42 @@
-210. hrs
+229.5 hrs
 **REMEMBER TO COPY THE SAM.CFG WHEN MODIFIED**
 
---beta 4 checklist--
-[ ] get textured buildings from alex
-[x] grass density
-[x] shift clutter north to fix clipping
-[x] northern air cargo maintenance > NAC maintenance
-[x] lake beach exclusion
+--beta 5 checklist--
+[ ] tweak grass size
+[ ] zdp grass v2
 [x] small clutter
-[x] vehicles
+[x] grunge
+[x] fuel farm
+[x] make new mask for terminal and north airpark
+[x] black tar and corr brown attr hard south airpark
+[x] north cargo roof textures and normals
+[x] lighting
 [x] sheds
 [x] large clutter
-[x] trailers and dumpsters
-[x] vegatation
-[x] fix signature sign
-[x] rebake AO
+[x] vegetation
+[x] vehicles
 [x] fences
-[x] lighting
-[x] ground markings
-[x] static aircraft
-[x] add lights to buildings
-[x] loading docks
-[x] create light object
-[x] grunge
-[x] ground poly rework
-[x] texture south airpark
-[x] export/validate south airpark
-[x] create new ortho decal
-[x] model south airpark
-[x] fix pillars on terminal
-[x] rebake terminal
-[x] rebake cargo buildings
-
---beta 5 checklist--
-[ ] model f&m
-[ ] test f&m
-[ ] materialize f&m
-[ ] texture f&m
-[ ] model landside
-[ ] test landside
-[ ] materialize landside
-[ ] texture landside
-[ ] sheds
-[ ] large clutter
-[ ] small clutter
-[ ] vegetation
-[ ] grunge
-[ ] vehicles
-[ ] fences
-[ ] lighting
-[ ] fuel farm
+[x] get textured buildings from alex
+[x] model landside
+[x] test landside
+[x] materialize landside
+[x] texture landside
+[x] fix ground AO on south airpark
+[x] model f&m
+[x] materialize f&m
+[x] texture f&m
+[x] test f&m
+[x] update fnm grunge object
+[x] rebake north parking without buffer
+[x] rebake ground for east and south airpark
 
 --general improvements needed--
-[ ] dirty tar mask
 [ ] wavy glass nml
-[ ] update template with export settings and AO settings
+[ ] paint pol
+[ ] improved runway markings
+[ ] ground text
+[x] dirty tar mask
+[x] update template with export settings and AO settings
 
 
 ==beta list==
@@ -65,3 +47,9 @@
 5. landside terminal & perimeter
 6. extra features, final touches
 
+5 layers of AO
+50m attenuation
+0.1 falloff
+25+ samples
+1.0 threshold 
+turn off falloff when baking ground shadow

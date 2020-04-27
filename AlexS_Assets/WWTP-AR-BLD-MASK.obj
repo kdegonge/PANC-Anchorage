@@ -3,7 +3,7 @@ I
 OBJ
 
 ATTR_layer_group	objects	4
-TEXTURE	WWTP-AR-BLD-MASK.png
+TEXTURE	WWTP-AR-BLD-Mask.png
 GLOBAL_no_shadow
 ATTR_layer_group_draped	objects	4
 POINT_COUNTS	858	0	0	858
