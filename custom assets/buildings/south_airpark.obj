@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	WHITE2.png
+TEXTURE	textures/WHITE2.png
 TEXTURE_NORMAL	textures/painted_NML.png
 POINT_COUNTS	1527	0	0	1527
 

@@ -8,9 +8,8 @@ NO_SHADOW
 SCALE_X 4096				
 SCALE_Y 4096
 
-SPACING 0.95 0.95
-RANDOM 0.5 0.5
-
+SPACING 1.95 1.95
+RANDOM 0.6 0.6
 #	low-left	tex size	center	percent	--height--
 # tree	s	t	w	y	offset	occur	min	max	quads	type	name
 #------------------------------------------------------------------------------------------

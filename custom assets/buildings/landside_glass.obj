@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	textures/window_2_blue.png
+TEXTURE	textures/window_2.png
 TEXTURE_LIT	textures/window_2_incandescent_LIT.png
 TEXTURE_NORMAL	textures/window_2_NML.png
 NORMAL_METALNESS

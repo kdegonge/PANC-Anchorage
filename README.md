@@ -1,16 +1,14 @@
 # PANC - Anchorage Ted Stevens International by Zero Dollar Payware
 
-This project is currently in the open beta stage. Please know that this is not a completed project and will have several missing features and bugs
+For brevity's sake and so I don't have to update multiple sources all information regarding this project is available on the official forum thread
 
-For brevity's sake and so I don't have to update multiple sources all information regarding this project and the public beta is available on the official forum thread
-
-**[OFFICIAL FORUM THREAD](---pending---)**
+**[OFFICIAL FORUM THREAD](https://forums.x-plane.org/index.php?/forums/topic/190147-panc-anchorage-ted-stevens-intl-by-zero-dollar-payware/#comments)**
 
 **Required Libraries**
 * MisterX Library
 * SAM Library
 
-Please report any bugs with the beta on the official project discord or on the official forum thread (linked above)
+Please report any bugs on the official project discord or on the official forum thread (linked above)
 
 To conctact me about this repo please send me a message on [the org](https://forums.x-plane.org/index.php?/profile/534962-stablesystem/)
 
@@ -18,7 +16,12 @@ This repository and it's contents are protected under [CC BY-NC 4.0](https://cre
 Assets used from other developers was done so with their knowledge and approval. 
 
 **Credits**
-Orthophotos courtesy of [USGS](https://earthexplorer.usgs.gov/).
-Original WED scenery by Iced8383
-SAM marshaller configuration by christianh727
+
 Modeling of 30+ buildings by Alex Siu
+
+Orthophotos courtesy of [USGS](https://earthexplorer.usgs.gov/).
+
+Original WED scenery by Iced8383
+
+SAM marshaller configuration by christianh727
+

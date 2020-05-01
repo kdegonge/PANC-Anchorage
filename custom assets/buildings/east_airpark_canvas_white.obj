@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	WHITE.png
+TEXTURE	textures/WHITE.png
 TEXTURE_NORMAL	textures/canvas_draped_NML.png
 POINT_COUNTS	120	0	0	120
 
