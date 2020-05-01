@@ -2,6 +2,8 @@
 
 For brevity's sake and so I don't have to update multiple sources all information regarding this project is available on the official forum thread
 
+**[Mod Post](https://forums.x-plane.org/index.php?/files/file/61336-panc-anchorage-ted-stevens-international-by-zero-dollar-payware/)**
+
 **[OFFICIAL FORUM THREAD](https://forums.x-plane.org/index.php?/forums/topic/190147-panc-anchorage-ted-stevens-intl-by-zero-dollar-payware/#comments)**
 
 **Required Libraries**
