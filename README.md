@@ -14,7 +14,7 @@ Please report any bugs on the official project discord or on the official forum 
 
 To conctact me about this repo please send me a message on [the org](https://forums.x-plane.org/index.php?/profile/534962-stablesystem/)
 
-This repository and it's contents are protected under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+This repository and it's contents are protected under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 Assets used from other developers was done so with their knowledge and approval. 
 
 **Credits**
@@ -32,6 +32,3 @@ SAM marshaller configuration by christianh727
 This scenery is entirely open source and I encourage people to look through my source if you are curious how something is done or want to make modifications. If you modify something and think it should be implemented, please send me a message and I'd be happy to merge it into the official release. 
 
 PANC full source - https://gitlab.com/StableSystem/panc---anchorage
-
-Custom Asset source - https://gitlab.com/StableSystem/asset-source
-
